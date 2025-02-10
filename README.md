@@ -1,6 +1,6 @@
 If you use this book, please cite:  
 ```bibtex
-@book{athirakrishnanr2024,
+@book{athirakrishnanr2024ros2foxy,
   author = {Athira Krishnan R},
   title = {Handson Workshop on ROS 2 FOXY},
   year = {2024},
